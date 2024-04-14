@@ -62,3 +62,4 @@ cd src test
 cd src
 ls --color=auto
 pwd
+ls --color=auto -l
