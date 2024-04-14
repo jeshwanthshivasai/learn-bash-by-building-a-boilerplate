@@ -35,3 +35,4 @@ cd ..
 ls --color=auto
 more test
 more package.json
+clear
